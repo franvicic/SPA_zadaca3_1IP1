@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\vicko\Desktop\New folder\SPA_zadaca3_1IP1\Zadaca3\OdAdoBokoPlota\Source.cpp(13,47): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\vicko\Desktop\New folder\SPA_zadaca3_1IP1\Zadaca3\OdAdoBokoPlota\Source.cpp(156,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  OdAdoBokoPlota.vcxproj -> C:\Users\vicko\Desktop\New folder\SPA_zadaca3_1IP1\Zadaca3\Debug\OdAdoBokoPlota.exe
